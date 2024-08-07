@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.idea/
+.DS_Store
+ash/custom_dendrogram.txt
+custom_dendrogram.txt
