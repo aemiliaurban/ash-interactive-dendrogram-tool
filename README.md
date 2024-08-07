@@ -1,5 +1,7 @@
 # Ash
 
+The deployed application can be inspected [here](https://ash-clustering-80f7adc27a4c.herokuapp.com/)
+
 ## Navigating Ash
 
 A brief tutorial can be found on [youtube](https://www.youtube.com/watch?v=WLfB4a4UlKg).
