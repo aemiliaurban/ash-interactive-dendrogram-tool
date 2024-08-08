@@ -1,0 +1,3 @@
+Dataset: Eosinophils from Samusik_all dataset (part3)
+Best node to split: 6
+Discriminating markers: CD3, Ly6C, CD11b, F480

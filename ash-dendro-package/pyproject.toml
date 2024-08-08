@@ -1,0 +1,23 @@
+[project]
+name = "ash-dendro"
+version = "0.0.7"
+authors = [
+  { name="Nicole Aemilia Urban", email="urbanovni@natur.cuni.cz" },
+]
+description = "Ash dendrogram utilities"
+dependencies = [
+  "pandas==2.2.2",
+  "numpy==1.25.2",
+  "scipy==1.9.3"
+]
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/aemiliaurban/ash-interactive-dendrogram-tool"
+Issues = "https://github.com/aemiliaurban/ash-interactive-dendrogram-tool/issues"

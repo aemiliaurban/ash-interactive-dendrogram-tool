@@ -1,0 +1,3 @@
+Dataset: Eosinophils from Samusik_all dataset (part4)
+Best node to split: 8
+Discriminating markers: LY6C, cKit
